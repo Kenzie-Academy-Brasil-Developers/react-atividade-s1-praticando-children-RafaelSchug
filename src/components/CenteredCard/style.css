@@ -1,0 +1,8 @@
+.Container {
+    background: linear-gradient(180deg, #3940d3, #1d1d1d);
+    color: white;
+    padding: 20px;
+    margin: 4px;
+    border: 2px solid #41425f;
+    box-shadow: 0 0 6px 1px #1f1f1f;
+}

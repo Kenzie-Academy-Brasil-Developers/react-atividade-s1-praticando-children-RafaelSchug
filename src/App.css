@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #282c34;
+}
+
+.App-header {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
